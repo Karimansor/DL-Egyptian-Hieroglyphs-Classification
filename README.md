@@ -22,7 +22,3 @@ The dataset used is available on Kaggle:
 - Employs **transfer learning** for enhanced accuracy.
 - Provides a scalable solution for hieroglyph recognition.
 
-## Objective
-To build a robust, deep learning-based system for accurate classification of Egyptian hieroglyphs in images.
-
-Contributions and issues are welcome!
