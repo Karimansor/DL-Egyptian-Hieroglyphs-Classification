@@ -1,3 +1,5 @@
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=karimansor.DL-Egyptian-Hieroglyphs-Classification)
+
 # Egyptian Hieroglyphs Classification
 
 This project classifies Egyptian Hieroglyph symbols using deep learning. It leverages pre-trained models such as **MobileNetV2**, **VGG16**, and custom **CNNs** for efficient and accurate recognition.
