@@ -18,6 +18,11 @@ The dataset used is available on Kaggle:
 ## Model Performance
 - **MobileNetV2** and **VGG16** deliver the best performance, with high accuracy and precision (around 98%).
 - **Custom CNNs** have lower accuracy (~21%) and require further optimization to match the pre-trained models.
+- VGG16
+  ![Alt text](VGG16RESULTS.png)
+- MobileNetV2
+  ![Alt text](MobileNetV2RESLUTS.png)
+
 
 ## Key Features
 - Utilizes **MobileNetV2**, **VGG16**, and custom CNNs.
